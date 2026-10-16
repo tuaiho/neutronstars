@@ -48,6 +48,7 @@ def rho(z,y):
 
 
 #Creating the data
+# This should be updated to 3D
 
 z=np.linspace(-40000,40000,1000)
 y=np.linspace(0,40000,500)
